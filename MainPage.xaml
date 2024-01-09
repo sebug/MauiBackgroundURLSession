@@ -9,7 +9,7 @@
             Spacing="25">
 
             <Label
-                Text="Issue with Background URL Session"
+                Text="Background URL Session Test"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
         </VerticalStackLayout>
